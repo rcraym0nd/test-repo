@@ -1,2 +1,2 @@
 # test-repo
-test epo
+test repo
